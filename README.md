@@ -3,10 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruv-2615p&style=flat-square&color=blue)
 
 ## About Me
-😊 My name is **Parmar Dhruv**.
-🌱 I’m currently learning Computer Science and Engineering at Indian Institute of Information Technology, Guwahati, Assam.
-🔭 I’m currently working on **Flutter projects** and various state management techniques.
-😄 Pronouns: **He/Him**
+- 😊 My name is **Parmar Dhruv**.
+- 🌱 I’m currently learning Computer Science and Engineering at Indian Institute of Information Technology, Guwahati, Assam.
 
 ## Languages and Tools
 
@@ -38,4 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
 
 ## Connect with Me
-Feel free to connect with me on [GitHub](https://github.com/dhruv-2615p)!
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)!
