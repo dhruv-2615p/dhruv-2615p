@@ -37,8 +37,5 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
 
-## GitHub Activity Graph
-![Dhruv's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhruv-2615p&theme=radical)
-
 ## Connect with Me
 Feel free to connect with me on [GitHub](https://github.com/dhruv-2615p)!
