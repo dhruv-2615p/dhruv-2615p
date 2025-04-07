@@ -4,7 +4,7 @@
 
 ## About Me
 - 😊 My name is **Parmar Dhruv**.
-- 🌱 I’m currently learning Computer Science and Engineering at Indian Institute of Information Technology, Guwahati, Assam.
+- 🌱 I’m currently pursuing Computer Science and Engineering at Indian Institute of Information Technology, Guwahati, Assam.
 
 ## Languages and Tools
 
