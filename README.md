@@ -10,7 +10,9 @@
 
 ## Contact with Me:
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)
+  <a href="https://www.linkedin.com/in/dhruv-parmar-23b7aa289/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+  </a>
 
 ## Languages:
 
