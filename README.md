@@ -1,24 +1,26 @@
 # Hi there 👋
 
-[![Gmail](https://img.shields.io/badge/-yourgmail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
+[![Gmail](https://img.shields.io/badge/-dhruv1511parmar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv2606)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv2606/)
 
+<p>
 <div align="center" style="font-size: 20px; color: #b5b5b5; font-weight: bold; margin-bottom: 10px;">
   Computer Science Student at IIITG '27 &nbsp;|&nbsp; 📍 Guwahati, India &nbsp;|&nbsp; 📱 +91-9328398243
 </div>
+<p>
 
 I am computer science student at Indian Institue of Information Technology Guwahati. I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
 
 ## 🎓 Education
-Bachelor of Technology (Computer Science and Engineering)
+- Bachelor of Technology (Computer Science and Engineering)
 Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present
 CGPA: 8.23
 
 ## 💻 Technical Skills
 
-**Programming Languages**  
+- **Programming Languages** 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -75,6 +77,3 @@ CGPA: 8.23
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical)
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2c9b4b3e2d8e70a7e6b8b2ecf5d0adf9e2e3c31f5b6e5b8f6b8e5f7b2e2b4b3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6d7075746572253230536369656e636525323053747564656e742d626c75653f7374796c653d666c61742d73717561726526736f63696574793d636f6d70757465722d736369656e63652d73747564656e74" alt="Computer Science Student" />
-</p>
