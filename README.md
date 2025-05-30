@@ -5,7 +5,7 @@
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv2606)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv2606/)
 
-<p align="center">
+<p align="left">
   <strong>Computer Science Student at IIITG '27</strong> <br>
   📍 Guwahati, India &nbsp;|&nbsp; 📱 +91-9328398243
 </p>
