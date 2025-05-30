@@ -63,10 +63,13 @@ CGPA: 8.23
 ## GitHub Stats
 
 <p align="center">
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical)
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical" alt="Dhruv's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical" alt="GitHub Streak" />
+</p>
+
   
 ## Contact me
 [![Gmail](https://img.shields.io/badge/-dhruv1511parmar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
