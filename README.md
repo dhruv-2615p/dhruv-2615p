@@ -1,72 +1,80 @@
 # Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhruv-2615p&style=flat-square&color=blue)
+[![Gmail](https://img.shields.io/badge/-yourgmail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv2606)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv2606/)
 
-## About Me:
+<div align="center" style="font-size: 20px; color: #b5b5b5; font-weight: bold; margin-bottom: 10px;">
+  Computer Science Student at IIITG '27 &nbsp;|&nbsp; 📍 Guwahati, India &nbsp;|&nbsp; 📱 +91-9328398243
+</div>
 
-- 😊 My name is **Parmar Dhruv**.
-- 👩🏻‍💻 Currently a 2nd Year Undergraduate Student.
-- 🤝 Looking to collaborate on Open-Source Contribution
+I am computer science student at Indian Institue of Information Technology Guwahati. I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
 
-## Contact with Me:
+## 🎓 Education
+Bachelor of Technology (Computer Science and Engineering)
+Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present
+CGPA: 8.23
 
-  <a href="https://www.linkedin.com/in/dhruv-parmar-23b7aa289/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
-  </a>
+## 💻 Technical Skills
 
-## Languages:
-
+**Programming Languages**  
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
-  
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   </a>
-  
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  </a>
+</p>
 
-## Framework:
-
+**Frameworks & Libraries**  
+<p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
+  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bloc-21BFAF?style=flat-square&logo=flutter&logoColor=white" alt="Bloc" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  </a>
+</p>
 
-## Database:
-
+**Databases**  
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
+</p>
 
-## Tools:
-
+**Tools & Platforms**  
+<p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </a>
-
-## Operating System:
-
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   </a>
-  
 </p>
 
 
 ## GitHub Stats
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)
-
-## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2c9b4b3e2d8e70a7e6b8b2ecf5d0adf9e2e3c31f5b6e5b8f6b8e5f7b2e2b4b3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6d7075746572253230536369656e636525323053747564656e742d626c75653f7374796c653d666c61742d73717561726526736f63696574793d636f6d70757465722d736369656e63652d73747564656e74" alt="Computer Science Student" />
+</p>
