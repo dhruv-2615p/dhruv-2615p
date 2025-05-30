@@ -1,10 +1,4 @@
 # Hi there 👋
-
-[![Gmail](https://img.shields.io/badge/-dhruv1511parmar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv2606)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv2606/)
-
 I am computer science student at Indian Institue of Information Technology Guwahati. I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
 
 ## 🎓 Education
@@ -68,9 +62,12 @@ CGPA: 8.23
   </a>
 </p>
 
-
 ## GitHub Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical)
+
+## Contact me
+[![Gmail](https://img.shields.io/badge/-dhruv1511parmar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv1511parmar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-parmar-23b7aa289/)
