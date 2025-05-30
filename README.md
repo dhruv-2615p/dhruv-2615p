@@ -5,17 +5,14 @@
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv2606)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv2606/)
 
-<p align="left">
-  <strong>Computer Science Student at IIITG '27</strong> <br>
-  📍 Guwahati, India &nbsp;|&nbsp; 📱 +91-9328398243
-</p>
-
 I am computer science student at Indian Institue of Information Technology Guwahati. I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
 
 ## 🎓 Education
 **Bachelor of Technology [Computer Science and Engineering]**
+<p align="left">
 Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present
 CGPA: 8.23
+<p>
 
 ## 💻 Technical Skills
 
@@ -74,8 +71,6 @@ CGPA: 8.23
 
 ## GitHub Stats
 
-<p align="center">
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-2615p&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-2615p&theme=radical)
-<p>
