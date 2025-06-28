@@ -45,6 +45,15 @@ CGPA: 8.23
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </a>
+
+  <!-- Keras -->
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  </a>
 </p>
 
 ### Tools & Platforms  
