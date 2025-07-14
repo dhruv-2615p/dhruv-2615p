@@ -4,7 +4,7 @@ I am computer science student at Indian Institue of Information Technology Guwah
 ## 🎓 Education
 **Bachelor of Technology [Computer Science and Engineering]**  
 Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present  
-CGPA: 8.23
+CGPA: 8.30
 
 ## 💻 Technical Skills
 
