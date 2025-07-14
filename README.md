@@ -44,6 +44,11 @@ CGPA: 8.23
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   </a>
+
+  <!-- Transformer -->
+  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Transformers-FFDF00?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Transformers" />
+  </a>
 </p>
 
 ### Databases  
