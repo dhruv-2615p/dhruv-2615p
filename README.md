@@ -89,7 +89,7 @@ CGPA: 8.30
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-2615p&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/GitHub%20Streak-dynamic?style=for-the-badge&logo=github" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dhruv-2615p&theme=radical" alt="GitHub Streak" />
 </p>
 
   
