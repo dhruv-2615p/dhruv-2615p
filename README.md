@@ -30,7 +30,7 @@ CGPA: 8.30
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Retrieval-Augmented_Generation" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-RAG-006400?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="RAG" />
+    <img src="https://img.shields.io/badge/-RAG-006400?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LangChain-228B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
