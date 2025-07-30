@@ -29,14 +29,14 @@ CGPA: 8.30
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
+  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bloc-21BFAF?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/Retrieval-Augmented_Generation" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-RAG-006400?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LangChain-228B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  </a>
-  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Bloc-21BFAF?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
