@@ -1,5 +1,6 @@
 # Hi there 👋
-I am computer science student at Indian Institue of Information Technology Guwahati. I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
+- I am computer science student at Indian Institue of Information Technology Guwahati.
+- I am currently lokking for internship or part-time opportunities to apply and enhance my software development and AI skills.
 
 ## 🎓 Education
 **Bachelor of Technology [Computer Science and Engineering]**  
